@@ -3,3 +3,17 @@
   height: 50px;
   background-color: #E4F7BA;
 }
+
+
+#footer{
+  width: 100%;
+  height: 200px;
+  background-color: gray;
+}
+
+#loginForm{
+  display: inline-block;
+}
+.menuBarRight{
+  float: right;
+}
